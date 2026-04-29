@@ -1,8 +1,0 @@
-{
-  "server_1": {
-    "maintenance": false
-  },
-  "server_2": {
-    "maintenance": true
-  }
-}
